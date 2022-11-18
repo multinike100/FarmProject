@@ -34,11 +34,5 @@
         "VeggieName": "Bottle Guard",
         "AvailableQuantity": 1,
         "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
-    },
-    {
-        "VeggieId": 7,
-        "VeggieName": "Bottle Guard1",
-        "AvailableQuantity": 1,
-        "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
     }
 ]
