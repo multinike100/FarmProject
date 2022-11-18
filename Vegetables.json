@@ -1,34 +1,33 @@
-{
-    "Vegetable": [
+[
         {
             "VeggieId": 1,
             "VeggieName": "Tomato",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/tomato.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/tomato.png"
         },
         {
             "VeggieId": 2,
             "VeggieName": "Spinach",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/spinach.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/spinach.png"
         },
         {
             "VeggieId": 3,
             "VeggieName": "Papaya",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/papaya.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/papaya.png"
         },
         {
             "VeggieId": 4,
             "VeggieName": "Green Chilli",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/green chilli.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/green chilli.png"
         },
         {
             "VeggieId": 5,
             "VeggieName": "Gobi",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/gobi.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/gobi.png"
         },
         {
             "VeggieId": 6,
@@ -40,7 +39,6 @@
             "VeggieId": 7,
             "VeggieName": "Bottle Guard1",
             "AvailableQuantity": 1,
-            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/bottleguard.png"
+            "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
         }
-    ]
-}
+]
