@@ -1,0 +1,40 @@
+{
+    "Vegetables": [
+        {
+            "Veggie ID": 1,
+            "Name": "Tomato",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/tomato.png"
+        },
+        {
+            "Veggie ID": 2,
+            "Name": "Spinach",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/spinach.png"
+        },
+        {
+            "Veggie ID": 3,
+            "Name": "Papaya",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/papaya.png"
+        },
+        {
+            "Veggie ID": 4,
+            "Name": "Green Chilli",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/green chilli.png"
+        },
+        {
+            "Veggie ID": 5,
+            "Name": "Gobi",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/gobi.png"
+        },
+        {
+            "Veggie ID": 6,
+            "Name": "Bottle Guard",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
+        }
+    ]
+}
