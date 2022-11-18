@@ -35,6 +35,12 @@
             "Name": "Bottle Guard",
             "Available Quantity": 1,
             "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
+        },
+        {
+            "Veggie ID": 7,
+            "Name": "Bottle Guard1",
+            "Available Quantity": 1,
+            "Image": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieImages/bottleguard.png"
         }
     ]
 }
