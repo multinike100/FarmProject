@@ -1,5 +1,4 @@
-{
-    "Vegetable": [
+[
         {
             "VeggieId": 1,
             "VeggieName": "Tomato",
@@ -42,5 +41,4 @@
             "AvailableQuantity": 1,
             "VeggieImage": "https://cdn.githubraw.com/multinike100/FarmProject/main/VeggieVeggieImages/bottleguard.png"
         }
-    ]
-}
+]
